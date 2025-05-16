@@ -1,5 +1,5 @@
-
-/*const prompt = require('prompt-sync')({ sigint: true });
+/*
+const prompt = require('prompt-sync')({ sigint: true });
 
 let anoInicial = 2024;
 let anoFinal = 2500;
@@ -43,8 +43,8 @@ if (hora >= 0 && hora <= 6) {
 }else {
   console.log("A hora ou/e distancia estão errados");
 }
-
-
+*/
+/*
 const prompt = require('prompt-sync')({ sigint: true });
 
 var NInicial = 1;
@@ -111,7 +111,7 @@ if ((mes === 1 && dia >= 20) || (mes === 2 && dia <= 18)) {
 
 if (signo) {
    console.log("Seu signo é: " + signo);
-}*/
+}
 
 //Problema no qual o usuário não sabe com qual cor de roupas passará em cada dia da semana.
 //O usuário entrará com o dia da semana e o programa dará saida na cor que ele passará o dia.
@@ -144,4 +144,4 @@ switch (cor) {
         break;
         default:
     console.log("Você não digitou um dia válido");
-}
+} */
